@@ -1,6 +1,6 @@
 import random
 #importar librerias para generar numeros aleatorios
-
+#importar librerias para generar numeros aleatorios#importar librerias para generar numeros aleatorios
 def run():
 
     numero_aleatorio = random.randint(1,100)
